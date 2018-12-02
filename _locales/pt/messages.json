@@ -1,0 +1,29 @@
+{
+  "extName": {
+    "message": "Skip Ads"
+  },
+  "extDescription": {
+    "message": "Pule todos aqueles anúncios tediosos on youtube automaticamente."
+  },
+  "extShortName": {
+    "message": "Skip Ads"
+  },
+  "extDefaultTitle": {
+    "message": "Abrir Skip Ads"
+  },
+  "title": {
+    "message": "Skip Ads em Ação"
+  },
+  "totalBySession": {
+    "message": "Total de anúncios pulados nesta sessão"
+  },
+  "totalLabel": {
+    "message": "Total de anúncios pulados desde a instalação"
+  },
+  "on": {
+    "message": "Ligar"
+  },
+  "off": {
+    "message": "Desligar"
+  }
+}

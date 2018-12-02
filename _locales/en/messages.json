@@ -1,0 +1,30 @@
+{
+  "extName": {
+    "message": "Skip Ads"
+  },
+  "extDescription": {
+    "message": "Auto Skipping for all those boring ads on youtube."
+  },
+  "extShortName": {
+    "message": "Skip Ads"
+  },
+  "extDefaultTitle": {
+    "message": "Open Skip Ads"
+  },
+  "title": {
+    "message": "Skip Ads in Action"
+  },
+  "totalBySession": {
+    "message": "Total of skipped Ads in this session"
+  },
+  "totalLabel": {
+    "message": "Total of skipped Ads since its installation"
+  },
+  "on": {
+    "message": "On"
+  },
+  "off": {
+    "message": "Off"
+  }
+
+}
