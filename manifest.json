@@ -3,7 +3,7 @@
   "name": "__MSG_extName__",
   "description": "__MSG_extDescription__",
   "short_name": "__MSG_extShortName__",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Adriano Chambel M. de Lima <acmlima.softweb@gmail.com>",
   "homepage_url": "https://github.com/achambel/skip-ads",
   "minimum_chrome_version": "55",

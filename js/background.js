@@ -39,6 +39,10 @@ function setBadge (enabled, text) {
   chrome.browserAction.setBadgeText({ text: text + '' });
 }
 
+chrome.runtime.onInstalled.addListener(() => {
+  chrome.storage.sync.set({ enabled: true });
+});
+
 chrome.storage.sync.get(['enabled'], result => {
   if (!result.enabled) {
     setBadge(false, 'off');
